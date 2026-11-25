@@ -1,4 +1,4 @@
-Introduction to using Github.
+Github fundamentals:
 
 Arnaud De Vooght, Bhavninder Pal Singh
 
