@@ -242,7 +242,7 @@ Open the repository locally.
 Update your branch:
 
 ```bash
-git pull origin main
+git pull origin main 
 ```
 
 You should see conflict markers like:
