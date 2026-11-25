@@ -1,5 +1,8 @@
 Github fundamentals:
 
+Introduction to using Github workflow.
+
+
 Arnaud De Vooght, Bhavninder Pal Singh
 
 We're trying to understand the workflow in a team using github.
