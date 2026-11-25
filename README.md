@@ -1,4 +1,4 @@
-Introduction to using github
+Introduction to using Github workflow.
 
 Arnaud De Vooght, Bhavninder Pal Singh
 
